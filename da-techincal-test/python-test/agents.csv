@@ -1,0 +1,6 @@
+﻿AgentID,PolicyType,AgentName,Persistency,Rank
+1,Life Insurance,Wilson Ding,100%,AVP
+2,Critical Illness,Jasmine Lee,95%,AVP
+3,Investment-Linked Policy,Keith Ng,50%,VP
+4,Health Insurance,Alvin Pang,80%,SVP
+5,Term Life,Germaine Kim,85%,VP

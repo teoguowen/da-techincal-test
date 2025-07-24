@@ -1,0 +1,6 @@
+﻿Tier,SoldPolicyCount,IncentivePerPolicy
+Tier 1,2500, $4.00 
+Tier 2,2000, $3.00 
+Tier 3,1500, $2.00 
+Tier 4,1000, $1.00 
+Tier 5,0, $-   
